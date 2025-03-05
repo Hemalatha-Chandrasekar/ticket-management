@@ -1,4 +1,5 @@
 package com.example.ticket_management.model;
 
-public class Role {
+public enum Role {
+    ADMIN, EMPLOYEE
 }
